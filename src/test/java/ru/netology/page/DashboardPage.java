@@ -10,5 +10,6 @@ public class DashboardPage {
 
     private DashboardPage() {
         heading.shouldBe(Condition.visible);
+
     }
 }
